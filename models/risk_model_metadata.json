@@ -1,0 +1,62 @@
+{
+  "model_type": "RandomForest",
+  "features": [
+    "IAN",
+    "IDA",
+    "IEG",
+    "IAA",
+    "IPS",
+    "IPP",
+    "IPV",
+    "INDE",
+    "INDICADORES_MEDIA",
+    "IEG_IDA_RATIO",
+    "INDE_IDA_RATIO",
+    "DESALINHAMENTO_IAA_IDA"
+  ],
+  "n_features": 12,
+  "n_samples_train": 615,
+  "n_samples_test": 154,
+  "accuracy": 0.7857142857142857,
+  "roc_auc": 0.8436185133239832,
+  "sensitivity": 0.6612903225806451,
+  "specificity": 0.8695652173913043,
+  "f1_score": 0.7130434782608696,
+  "cv_mean": 0.8466684447936894,
+  "cv_std": 0.03452365673516324,
+  "feature_importance": {
+    "Feature": [
+      "IPP",
+      "IPV",
+      "INDICADORES_MEDIA",
+      "IPS",
+      "INDE_IDA_RATIO",
+      "IDA",
+      "IEG",
+      "IAN",
+      "IEG_IDA_RATIO",
+      "DESALINHAMENTO_IAA_IDA",
+      "IAA",
+      "INDE"
+    ],
+    "Importance": [
+      0.22281660718563023,
+      0.11114639579048527,
+      0.10390782778690458,
+      0.0899243429102378,
+      0.07324136504180263,
+      0.07287498268607602,
+      0.07034125480835769,
+      0.06920194973587582,
+      0.06776016831692117,
+      0.06580197631802588,
+      0.05298312941968302,
+      0.0
+    ]
+  },
+  "training_years": [
+    2022,
+    2023
+  ],
+  "target_year": 2024
+}
