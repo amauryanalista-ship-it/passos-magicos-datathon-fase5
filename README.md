@@ -1,4 +1,4 @@
-# 📊 Passos Mágicos - Datathon 2024
+# 📊 Passos Mágicos - Datathon 2026
 
 **Advanced Analytics & Prediction Platform for Educational Risk Assessment**
 
