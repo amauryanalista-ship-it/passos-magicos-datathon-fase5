@@ -236,8 +236,8 @@ passos_magicos_v2/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/amauryanalista-ship-it/passos-magicos-datathon-v2.git
-cd passos_magicos_v2
+git clone https://github.com/amauryanalista-ship-it/passos-magicos-datathon-fase5
+cd passos-magicos-datathon-fase5
 
 # Crie um ambiente virtual (recomendado)
 python -m venv venv
@@ -257,10 +257,10 @@ A aplicação será aberta em `http://localhost:8501`
 1. **Faça um fork deste repositório** no GitHub
 2. **Acesse** https://streamlit.io/cloud
 3. **Conecte com sua conta GitHub**
-4. **Selecione** `passos-magicos-datathon-v2`
+4. **Selecione** `passos-magicos-datathon-fase5`
 5. **Deploy automático** será iniciado
 
-A aplicação estará disponível em: `https://seu-usuario-passos-magicos-v2.streamlit.app`
+A aplicação estará disponível em: `https://paapps-magicos-datathon-fase5-drhwux83oefhemnech2i7w.streamlit.app/`
 
 ### Uso dos Notebooks
 
